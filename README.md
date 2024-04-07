@@ -1,6 +1,6 @@
-# Octo.ai site
+# Octo site
 
-This is the bootstrap based hand-coded site for Octo.ai.
+This is the bootstrap based hand-coded site for Octo.
 
 if you feel the design is not upto scratch, feel free to suggest or actually help us push a new one out. 
 
